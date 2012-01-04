@@ -1,0 +1,49 @@
+At the top of the order form:
+ 
+STEP 1: Choose your PRODUCT  (please refer to attached image Orderform1)  THEY CAN ONLY CHOOSE ONE
+ 
+V-Bump Video              V-Bump Certificate                V-Bump Engraved Medallion
+ 
+ 
+When they choose one, the amount gets put into the shopping cart
+ 
+V-Bump Video: $2.99
+ 
+V-Bump Certificate: $4.99
+ 
+V-Bump Medallion: $19.99
+ 
+ 
+ 
+If someone chooses V-Bump Video then the two fields for VIDEO should appear
+ 
+(Refer to attached images Orderform2 and Orderform3)
+ 
+ 
+If someone chooses V-Bump Certificate, then the field for CERTIFICATE should appear
+ 
+(Refer to attached image Orderform4)
+ 
+On this one, for delivery options:
+ 
+If someone chooses E-mail, then e-mail field comes up
+ 
+If someone chooses US Postal Mail or Rush Delivery, then DELIVER TO: field comes up
+        
+                   When someone chooses US Mail, add $1.95 to cart for postage and handling
+                  
+                   When someone chooses Rush Delivery, add $7.95 to cart for shipping and handling
+ 
+ 
+If someone chooses V-bump Medallion, then the field for MEDALLION should appear
+ 
+(Refer to attached image Orderform5)
+ 
+On this one, for delivery options:
+ 
+When someone chooses US Postal Mail, add $7.95 for postage and handling
+ 
+When someone chooses Rush Delivery, add $12.95 for shipping and handling
+ 
+ 
+At the bottom of the order form page, please put two buttons:   PROCEED TO CHECKOUT     and         ADD ANOTHER PRODUCT
